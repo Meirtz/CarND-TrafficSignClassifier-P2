@@ -1,0 +1,6 @@
+data/*.p
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
